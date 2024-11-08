@@ -7,7 +7,7 @@ export default function Footer() {
       <div className="intro w-[1480px] h-[169px]  flex gap-[100px] text-lg">
         <div className="whitepase  w-[295px] h-[169px] ">
           <Image src={logo} alt="" className="mb-[15px]" />
-          <p className="font-normal text-lg leading-[30px] tracking-[-2%] w-60 ">
+          <p className="font-normal text-lg leading-[30px] tracking-[-2%] w-60 text-white ">
             whitepace was created for the new ways we live and work. We make a
             better workspace around the world
           </p>
