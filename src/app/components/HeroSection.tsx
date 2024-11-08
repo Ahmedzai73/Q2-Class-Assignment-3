@@ -10,7 +10,7 @@ export default function HeroSection() {
   return (
     <div className="container font-inter">
       {/* section 1 starting here*/}
-      <div className="section_1 w-[1920px] h-[829px] bg-[#043873] flex justify-center items-center">
+      <div className="section_1 w-[1920px] h-[829px] bg-[#043873] text-white flex justify-center items-center">
         {/* text area heading and peragraph*/}
         <div className="heading w-[656px] h-[361px] flex-col flex gap-[38px]">
           <h2 className=" font-bold text-[64px] leading-[77.45px] tracking-[-2%]">
@@ -119,7 +119,7 @@ export default function HeroSection() {
       {/* section 2 end here*/}
 
       {/* section 3 starting here*/}
-      <div className="section_3 w-[1920px] h-[759px] bg-[#043873] flex justify-center items-center">
+      <div className="section_3 w-[1920px] h-[759px] bg-[#043873] text-white flex justify-center items-center">
         {/* text area heading and peragraph*/}
         <div className="heading w-[697px] h-[294px] flex-col flex gap-[38px]">
           <h1 className=" font-bold text-[72px] leading-[87.14px] tracking-[-2%]">
@@ -186,7 +186,7 @@ export default function HeroSection() {
       {/* section 4 end here*/}
 
       {/* section 5 starting here*/}
-      <div className="section_5 w-[1920px] h-[574px] bg-[#043873] flex justify-center items-center">
+      <div className="section_5 w-[1920px] h-[574px] bg-[#043873] text-white flex justify-center items-center">
         <div className="textcontent w-[1481px] h-[294px] flex gap-[60px] justify-center items-center flex-col">
           <h1 className="font-bold text-[72px] leading-[87.14px] tracking-[-2%]">
             Your work, everywhere you are

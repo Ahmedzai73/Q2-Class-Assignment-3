@@ -12,28 +12,28 @@ export default function Footer() {
             better workspace around the world
           </p>
         </div>
-        <div className=" product w-[295px] h-[127px] flex flex-col justify-between">
+        <div className=" product w-[295px] h-[127px] flex flex-col justify-between  text-white ">
           <div className="font-bold ">Product</div>
           <div className="font-normal text-[#FFE492]">Overview</div>
           <div className="font-normal">Pricing</div>
           <div className="font-normal">Customer stories</div>
         </div>
         
-        <div className=" product w-[295px] h-[130px] flex flex-col justify-between">
+        <div className=" product w-[295px] h-[130px] flex flex-col justify-between  text-white ">
           <div className="font-bold ">Resources</div>
           <div className="font-normal ">Blog</div>
           <div className="font-normal">Guides & tutorials</div>
           <div className="font-normal">Help center</div>
         </div>
       
-        <div className=" product w-[295px] h-[130px] flex flex-col justify-between">
+        <div className=" product w-[295px] h-[130px] flex flex-col justify-between  text-white ">
           <div className="font-bold ">Company</div>
           <div className="font-normal ">About us</div>
           <div className="font-normal">Careers</div>
           <div className="font-normal">Help center</div>
         </div>
       </div>
-      <div className="btm w-[1480px] h-[20px]  mx-auto flex justify-center">
+      <div className="btm w-[1480px] h-[20px]  mx-auto flex justify-center  text-white ">
         <p>©2021 Whitepace LLC.   |   Created by: Ahmed Zai</p></div>
     </div>
   );
