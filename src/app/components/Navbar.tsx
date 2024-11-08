@@ -8,7 +8,7 @@ export default function Navbar() {
         <div className="logo w-[191px] h-[34px]"><Link href="/"><Image src={logo} alt="" /></Link></div>
       <div className=" w-[737.5px] h-[60px] flex">
        
-        <div className="w-[549px] h-[23px]  my-[18.5] flex items-center font-medium text-lg gap-[32px] ">
+        <div className="w-[549px] h-[23px]  my-[18.5] flex items-center justify-start font-medium text-lg gap-[32px] ">
            <Link href="/" className="hover:text-[#dac27c]">Products</Link> 
            <Link href="/" className="hover:text-[#dac27c]">Solutions</Link> 
            <Link href="/" className="hover:text-[#dac27c]">Resources</Link> 
